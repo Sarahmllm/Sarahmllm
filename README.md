@@ -4,7 +4,8 @@
 
 💻 Diplôme en Développement Web reconnu par l'État.  
 🌱 6 ans d'expérience en entreprise dans le développement web.  
-✨ Transformer des idées en projets fonctionnels et élégants tout en résolvant des problèmes complexes avec des solutions créatives.
+✨ Transformer des idées en projets fonctionnels et élégants tout en résolvant des problèmes complexes avec des solutions créatives.  
+
 🔒 Répertoires privés disponibles sur demande (contactez-moi pour y accéder).
 
 ---
